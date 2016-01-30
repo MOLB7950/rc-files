@@ -20,3 +20,5 @@ $ cp .bash_profile ~
 ```
 
 Logout, login and you should see e.g. a new prompt.
+
+Open an issue if you have issues.
